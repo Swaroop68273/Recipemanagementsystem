@@ -1,1 +1,2 @@
 # Recipemanagementsystem
+The Recipe Book is a single-page web application designed to provide users with a delightful and user-friendly culinary experience. This interactive platform offers a comprehensive collection of recipes, complete with images, detailed ingredient lists, step-by-step instructions, and a robust search feature. The primary objective of this web application is to empower cooking enthusiasts and food lovers to explore, discover, and recreate a wide variety of dishes from around the world.
